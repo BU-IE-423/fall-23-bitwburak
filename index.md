@@ -11,26 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ```markdown
-[IE423 Project Part1](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
+[IE423 Project Part1 .ipynb file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
+[IE423 Project Part1 .HTML file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.html)
 ```
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
