@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-""" DENEME """
+[IE423 Project Part1](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
 
 - Bulleted
 - List
