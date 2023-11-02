@@ -11,10 +11,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ```markdown
+
+```
 [IE423 Project Part1 .ipynb file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
 [IE423 Project Part1 .HTML file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.html)
-```
-
 
 
 ### Jekyll Themes
