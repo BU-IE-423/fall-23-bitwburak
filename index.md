@@ -8,15 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+
 ```markdown
+[IE423 Project Part1](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
+```
+
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
-
-[IE423 Project Part1](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
-
 - Bulleted
 - List
 
@@ -26,7 +28,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
