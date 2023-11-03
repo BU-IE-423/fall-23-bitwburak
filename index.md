@@ -10,8 +10,8 @@ Welcome to my Progress Journal!
 Burak Berk Bulut
 2019402138
 ```
-[IE423 Project Part1 .ipynb file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.ipynb)
+[IE423 Project Part1 .ipynb file](423_1_last.ipynb)
 
-[IE423 Project Part1 .HTML file](https://github.com/BU-IE-423/fall-23-burakberkbulut/blob/main/423_1_last.html)
+[IE423 Project Part1 .HTML file](423_1_last.html)
 
 
