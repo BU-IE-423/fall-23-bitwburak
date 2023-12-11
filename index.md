@@ -14,4 +14,8 @@ Burak Berk Bulut
 
 [IE423 Project Part1 .HTML file](423_1_last.html)
 
+[IE423 Project Part2 .ipynb file](ie423_part2.ipynb)
+
+[IE423 Project Part2 .HTML file](ie423_part2.html)
+
 
